@@ -3,3 +3,9 @@
 Пртотип .. Всеки обект си има прототип.
 шаблон.- template.
 
+Person.drink=function(){
+
+}
+
+Person.Drink();--->така се извиква
+
