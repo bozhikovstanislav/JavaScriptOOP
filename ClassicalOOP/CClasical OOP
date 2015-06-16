@@ -9,3 +9,17 @@ Person.drink=function(){
 
 Person.Drink();--->така се извиква
 
+function gosho(){
+this // не се препоръчва
+}
+
+this ависи по начина по който е извк=икана функцията..
+жаринат
+person.walk.call({},name);
+
+var that=this;
+препоъчително.
+спестява маясто след унификацията.
+
+PascalCase .. кръщаване ..
+Наследяването е след
