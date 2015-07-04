@@ -51,3 +51,28 @@ randomGenerator(10);
 //    NaN,
 
 
+var db;
+db = (function () {
+    var objs = [];
+    result;
+    function add(obj) {
+        objs.push(obj);
+        //return this;// не е хубаво да се прави
+        return result;
+    }
+
+    function list() {
+        return objs.slice();
+    }
+
+    //return{
+    //    add:add,
+    //    list:list
+    //};//
+    result = {
+        add: add,
+        list: list
+    };
+    return result;
+}());
+console.log(db.add('Goshko').add('Penka').list());

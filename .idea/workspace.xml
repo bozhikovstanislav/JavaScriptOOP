@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82bea1a5-7547-4697-a942-d0680780c457" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClassicalOOP/CClasical OOP" afterPath="$PROJECT_DIR$/ClassicalOOP/CClasical OOP" />
+    <list default="true" id="82bea1a5-7547-4697-a942-d0680780c457" name="Default" comment="Test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Book.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/CreateExeption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/CustomExeption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/ExaptionHandling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/LectureDemos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/MultipalExeption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/NestID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Patern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Paterns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/PrototypeInheritance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/RevealingModul.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/SingletonPatern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/ThrowObjets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Модул.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scope/Scope.js" afterPath="$PROJECT_DIR$/Scope/Scope.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptOOP.iws" />
@@ -24,11 +45,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CClasical OOP" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClassicalOOP/CClasical OOP">
+      <file leaf-file-name="MOdulesDoncho.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6964587">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RevealingModulPatern.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,6 +71,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
+        <option value="Html5" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -53,9 +85,45 @@
         <option value="$PROJECT_DIR$/npm-debug.log" />
         <option value="$PROJECT_DIR$/FunctionDeclaration/ScopeClosures" />
         <option value="$PROJECT_DIR$/FunctionDeclaration/Scope/Scope.js" />
-        <option value="$PROJECT_DIR$/Scope/Scope.js" />
         <option value="$PROJECT_DIR$/Scope/ScopeClosures" />
         <option value="$PROJECT_DIR$/ClassicalOOP/CClasical OOP" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/01. Functions and Function Expressions/00. homework/tests/tests-task-1.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/01. Functions and Function Expressions/00. homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/01. Functions and Function Expressions/00. homework/tasks/task-2.js" />
+        <option value="$PROJECT_DIR$/FunctionDeclaration/HomeWork/NestID.js" />
+        <option value="$PROJECT_DIR$/Scope/Scope.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/02. Scopes and Closures/00. homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Book.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/03. Scopes and Closures/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/03. Scopes and Closures/demos/4. block-scope-let.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/10. hidden-functions.js" />
+        <option value="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Test.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/Prototype Inheritance/PrototypeInheritance" />
+        <option value="$PROJECT_DIR$/Prototype Inheritance/LectureDemos.js" />
+        <option value="$PROJECT_DIR$/JavascriptPatern/Patern.js" />
+        <option value="$PROJECT_DIR$/JavascriptPatern/Модул.js" />
+        <option value="$PROJECT_DIR$/JavascriptPatern/RevealingModul.js" />
+        <option value="$PROJECT_DIR$/JavascriptPatern/Paterns" />
+        <option value="$PROJECT_DIR$/JavascriptPatern/SingletonPatern.js" />
+        <option value="$PROJECT_DIR$/reatingUsingExeption/CreateExeption.js" />
+        <option value="$PROJECT_DIR$/reatingUsingExeption/CustomExeption.js" />
+        <option value="$PROJECT_DIR$/reatingUsingExeption/ExaptionHandling.js" />
+        <option value="$PROJECT_DIR$/reatingUsingExeption/MultipalExeption.js" />
+        <option value="$PROJECT_DIR$/reatingUsingExeption/ThrowObjets.js" />
+        <option value="$PROJECT_DIR$/Prototype Inheritance/proto.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/index.html" />
+        <option value="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/01. Object.defineProperty().js" />
+        <option value="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/02. Object.defineProperties().js" />
+        <option value="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/06. Object.preventExtensions().js" />
+        <option value="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/demo.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/JavaScript-OOP-master/04. Modules and Patterns/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/ES6.js" />
+        <option value="$PROJECT_DIR$/../JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js" />
+        <option value="$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js" />
+        <option value="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" />
       </list>
     </option>
   </component>
@@ -67,10 +135,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="977" />
+    <option name="y" value="60" />
+    <option name="width" value="1104" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -111,7 +179,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,8 +202,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptOOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptOOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MOdulPaternsPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,15 +229,32 @@
     <property name="recentsLimit" value="5" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\Scope" />
       <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\ClassicalOOP" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\JavaScript-OOP-master\01. Functions and Function Expressions\00. homework\tasks" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\JavaScript-OOP-master\01. Functions and Function Expressions\00. homework\tests" />
+      <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\Scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Scope.js">
-    <configuration default="false" name="Scope.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Scope/Scope.js" working-dir="$PROJECT_DIR$/Scope">
+  <component name="RunManager" selected="Node.js.MOdulesDoncho.js">
+    <configuration default="false" name="01. Object.defineProperty().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01. Object.defineProperty().js" working-dir="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos">
+      <method />
+    </configuration>
+    <configuration default="false" name="06. Object.preventExtensions().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="06. Object.preventExtensions().js" working-dir="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos">
+      <method />
+    </configuration>
+    <configuration default="false" name="snake.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="snake.js" working-dir="$PROJECT_DIR$/JavaScript-OOP-master/06. Modules and Patterns/Application">
+      <method />
+    </configuration>
+    <configuration default="false" name="task-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="task-1.js" working-dir="$PROJECT_DIR$/JavaScript-OOP-master/04. Modules and Patterns/homework/tasks">
+      <method />
+    </configuration>
+    <configuration default="false" name="MOdulesDoncho.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="MOdulesDoncho.js" working-dir="$PROJECT_DIR$/MOdulPaternsPractice">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -196,12 +295,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Scope.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Object.defineProperty().js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Object.preventExtensions().js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.snake.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.task-1.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Scope.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.task-1.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.snake.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.06. Object.preventExtensions().js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Object.defineProperty().js" />
       </list>
     </recent_temporary>
   </component>
@@ -250,27 +357,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="977" y="60" width="1104" height="813" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1264489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28705442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19184123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21221374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3160793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3847328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39909297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32524806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -289,19 +396,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ClassicalOOP/CClasical OOP">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassicalOOP/CClasical OOP">
+    <entry file="file://$PROJECT_DIR$/../JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -309,96 +410,364 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/ScopeClosures">
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/10. hidden-functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/Scope.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/12. calling-parent-methods.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/ScopeClosures">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/Scope.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/02. prototype.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/Scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9078014">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/JavaScriptOOP.iml">
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/01. function-constructors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scope/ScopeClosures">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7446808">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionDeclaration/FunctionDeclaration">
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/05. attaching-methods-prototype.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/FunctionDeclaration/HomeWork/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/11. inheritance.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/homework/tests/tests-task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/homework/tasks/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassicalOOP/CClasical OOP">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6964587">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Inheritance/PrototypeInheritance">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28074867">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Inheritance/LectureDemos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptPatern/Patern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70143884">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptPatern/Paterns">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptPatern/SingletonPatern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptPatern/Модул.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavascriptPatern/RevealingModul.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelerikAcademy-master/Homeworks/JS-OOP/Classical-Inheritance/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13793103">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reatingUsingExeption/ExaptionHandling.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5955335">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reatingUsingExeption/MultipalExeption.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36724564">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reatingUsingExeption/ThrowObjets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6327543">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reatingUsingExeption/CustomExeption.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5955335">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reatingUsingExeption/CreateExeption.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5955335">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/нев/homework/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/нев/homework/tasks/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tests/tests-task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="322" column="678" selection-start-line="322" selection-start-column="43" selection-end-line="322" selection-end-column="686" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Inheritance/proto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1439206">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/01. Object.defineProperty().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/02. Object.defineProperties().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/03. Object.create().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/14. Object.is().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/13. Object.assign().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/11. deepFreeze().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/09. Object.isSealed().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/10. Object.freeze().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/08. Object.seal().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/06. Object.preventExtensions().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61358315">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/04. Object.keys().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/12. Object.isFrozen().js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/06. Creating and using exceptions/02. handling-multiple-exceptions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.116883114">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/06. Creating and using exceptions/01. exception-handling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77922076">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Modules and Patterns/homework/tasks/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="216" column="2" selection-start-line="216" selection-start-column="2" selection-end-line="216" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
