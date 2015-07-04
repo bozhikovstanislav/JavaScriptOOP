@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82bea1a5-7547-4697-a942-d0680780c457" name="Default" comment="Test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Book.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/CreateExeption.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/CustomExeption.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/ExaptionHandling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/LectureDemos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/MultipalExeption.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/NestID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Patern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Paterns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/PrototypeInheritance" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/RevealingModul.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/SingletonPatern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionDeclaration/HomeWork/Test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reatingUsingExeption/ThrowObjets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript-OOP-master/05. Prototypal Inheritance/homework/tasks/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype Inheritance/proto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavascriptPatern/Модул.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scope/Scope.js" afterPath="$PROJECT_DIR$/Scope/Scope.js" />
+    <list default="true" id="82bea1a5-7547-4697-a942-d0680780c457" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/AugmentingModules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/Singleton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" afterPath="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptOOP.iws" />
@@ -49,17 +30,37 @@
         <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <caret line="28" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RevealingModulPatern.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RevealingModulPatern.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/Singleton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AugmentingModules.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/AugmentingModules.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27565083">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -124,6 +125,8 @@
         <option value="$PROJECT_DIR$/../JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js" />
         <option value="$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js" />
         <option value="$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js" />
+        <option value="$PROJECT_DIR$/MOdulPaternsPractice/Singleton.js" />
+        <option value="$PROJECT_DIR$/MOdulPaternsPractice/AugmentingModules.js" />
       </list>
     </option>
   </component>
@@ -135,10 +138,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="977" />
-    <option name="y" value="60" />
-    <option name="width" value="1104" />
-    <option name="height" value="813" />
+    <option name="x" value="1209" />
+    <option name="y" value="40" />
+    <option name="width" value="711" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -241,20 +244,20 @@
       <recent name="C:\Users\Stanislav\Documents\JavaScriptOOP\Scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.MOdulesDoncho.js">
-    <configuration default="false" name="01. Object.defineProperty().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="01. Object.defineProperty().js" working-dir="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos">
-      <method />
-    </configuration>
-    <configuration default="false" name="06. Object.preventExtensions().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="06. Object.preventExtensions().js" working-dir="$PROJECT_DIR$/NewUpdated/08. Object and Object.prototype methods/demos">
-      <method />
-    </configuration>
-    <configuration default="false" name="snake.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="snake.js" working-dir="$PROJECT_DIR$/JavaScript-OOP-master/06. Modules and Patterns/Application">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.AugmentingModules.js">
     <configuration default="false" name="task-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="task-1.js" working-dir="$PROJECT_DIR$/JavaScript-OOP-master/04. Modules and Patterns/homework/tasks">
       <method />
     </configuration>
     <configuration default="false" name="MOdulesDoncho.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="MOdulesDoncho.js" working-dir="$PROJECT_DIR$/MOdulPaternsPractice">
+      <method />
+    </configuration>
+    <configuration default="false" name="RevealingModulPatern.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="RevealingModulPatern.js" working-dir="$PROJECT_DIR$/MOdulPaternsPractice">
+      <method />
+    </configuration>
+    <configuration default="false" name="Singleton.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Singleton.js" working-dir="$PROJECT_DIR$/MOdulPaternsPractice">
+      <method />
+    </configuration>
+    <configuration default="false" name="AugmentingModules.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="AugmentingModules.js" working-dir="$PROJECT_DIR$/MOdulPaternsPractice">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -296,19 +299,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Object.defineProperty().js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Object.preventExtensions().js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.snake.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.task-1.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.task-1.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.RevealingModulPatern.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Singleton.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.AugmentingModules.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.task-1.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.snake.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.06. Object.preventExtensions().js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Object.defineProperty().js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.AugmentingModules.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Singleton.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.RevealingModulPatern.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.MOdulesDoncho.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.task-1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -353,20 +356,26 @@
       <option name="project" value="LOCAL" />
       <updated>1434474107087</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1436027299171</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1436027299171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="977" y="60" width="1104" height="813" extended-state="0" />
+    <frame x="1209" y="40" width="711" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28705442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25854382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17270531" sideWeight="0.89403975" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19863792" sideWeight="0.1691773" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19184123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21221374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20443925" sideWeight="0.8308227" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3847328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -397,26 +406,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaScript-OOP-master/06. Modules and Patterns/homework/tasks/task-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/10. hidden-functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript-OOP-master/04. Classical Inheritance/demos/12. calling-parent-methods.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -759,7 +753,7 @@
     <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/MOdulesDoncho.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <caret line="28" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -767,7 +761,23 @@
     <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/RevealingModulPatern.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/Singleton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MOdulPaternsPractice/AugmentingModules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27565083">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
